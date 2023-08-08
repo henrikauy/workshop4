@@ -1,4 +1,4 @@
-#!/snap/bin/ruby
+#!/home/student/.asdf/shims/ruby
 
 puts "What is your name"
 name = gets.chomp

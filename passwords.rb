@@ -1,4 +1,4 @@
-#!/snap/bin/ruby
+#!/home/student/.asdf/shims/ruby
 
 file = File.open("pwordlist.txt")
 

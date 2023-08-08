@@ -1,4 +1,4 @@
-#!/snap/bin/ruby
+#!/home/student/.asdf/shims/ruby
 
 puts "Enter a number between 1 and 12 for its times table: "
 input = gets.chomp

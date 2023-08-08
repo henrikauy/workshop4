@@ -1,4 +1,4 @@
-#!/snap/bin/ruby
+#!/home/student/.asdf/shims/ruby
 
 puts "What is the current temperature ('C) ?"
 input = gets.chomp
